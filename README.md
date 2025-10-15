@@ -56,7 +56,7 @@ The study presents a machine learning-based modeling framework to identify key a
 ## Dataset
 
 The repository does **not** include raw data.  
-> Dataset download link available upon request to corresponding authors (USDA-NASS and PRISM data).  
+> Dataset download link available upon request to the corresponding author (USDA-NASS and PRISM data).  
 
 ---
 
