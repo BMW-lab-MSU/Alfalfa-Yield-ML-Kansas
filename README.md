@@ -1,5 +1,3 @@
-# Alfalfa-Yield-ML-Kansas
-
 # Data-Driven and Machine Learning Framework for Alfalfa Yield Response to Long-Term Climate Variability in the Kansas High Plains (USA)
 
 **Authors:** Farshina Nazrul¹, Jiyung Kim², Sourajit Dey², Bradley Whitaker¹, Debjani Sihi³, Doohong Min², Gaurav Jha²*  
