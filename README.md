@@ -99,5 +99,5 @@ A citation will be available via **Zenodo** upon publication. Please contact the
 
 ## Contact
 
-- **Code & primary author:** Farshina Nazrul — <farshinashimim@montana.edu>  
-- **Corresponding author (paper):** Gaurav Jha — <gjha@ksu.edu>
+- **Code and implementation details:** Farshina Nazrul — <farshinashimim@montana.edu>  
+- **Corresponding author:** Gaurav Jha — <gjha@ksu.edu>
