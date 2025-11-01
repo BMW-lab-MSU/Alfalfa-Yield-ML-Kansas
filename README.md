@@ -32,7 +32,7 @@ The study presents a machine learning-based modeling framework to identify key a
 | `curseofdimentionality_datatofeatureratio.m` | Plots features-to-data ratio per fold to illustrate curse of dimensionality (Supplement Section 2). |
 | `correlation_pearson_spearman.m` | Computes full Pearson’s and Spearman’s correlation matrices; generates plots and CSV files (Supplement Section 1). |
 
-### dataset generalization and visualization
+### 📁 dataset generalization and visualization
 
 > All scripts in this folder assume the `dataset` folder is in the parent directory (`../dataset/`).
 
@@ -65,8 +65,7 @@ This folder includes all visualizations and performance plots used in the manusc
 
 A MATLAB script for converting `.fig` files to `.png` format is also included in this folder.
 
-### 📝 Notes
-These additions aim to improve the transparency and reproducibility of the analysis by providing both correlation data and all visual outputs used in the study.
+> These additions aim to improve the transparency and reproducibility of the analysis by providing both correlation data and all visual outputs used in the study.
 
 ---
 
