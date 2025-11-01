@@ -42,6 +42,32 @@ The study presents a machine learning-based modeling framework to identify key a
 | `missingyield_countyyear.m` | Identifies missing yield reporting years per county (Supplement Section 4). |
 | `prism_ppp_plot.m`, `prism_temp_plots.m`, `yieldfs_plots.m` | Generate figures of yearly yield, precipitation, and temperature across counties (Section 3.1). |
 
+### 📁 correlation_matrix/
+This folder contains four `.csv` files with Pearson and Spearman correlation coefficients:
+
+- **Target vs Predictors**  
+  - Pearson correlation (117 x 1)  
+  - Spearman correlation (117 x 1)
+
+- **Predictors vs Predictors**  
+  - Pearson correlation (117 × 117)  
+  - Spearman correlation (117 × 117)
+
+These files provide pairwise correlation information used for model interpretation and variable selection.
+
+### 📁 dataset_and_results_figures/
+This folder includes all visualizations and performance plots used in the manuscript and supplementary materials:
+
+- Dataset visualizations  
+- Results surface plots, bar charts, and model performance plots  
+- Figures are named according to the manuscript convention  
+  (e.g., `Fig1a....png`, `FigS1a....png` where *S* denotes *Supplementary*)  
+
+A MATLAB script for converting `.fig` files to `.png` format is also included in this folder.
+
+### 📝 Notes
+These additions aim to improve the transparency and reproducibility of the analysis by providing both correlation data and all visual outputs used in the study.
+
 ---
 
 ## Requirements
